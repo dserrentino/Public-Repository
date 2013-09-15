@@ -4,6 +4,7 @@
 ;;(remainder)
 ;;modulo
 ;; does modulo ignore the sign of the number?  or does remainder only work on integers?
+;; is 0 an even number??
 
 (define (even-new? int1)
    (if (= (modulo int1 2) 0) true false))
