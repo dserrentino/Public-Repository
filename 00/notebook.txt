@@ -24,3 +24,10 @@ Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
 9/15	DS	4:37	4:40			17		3		constructed rectangles
 
 ===================committing to git: 9/15 4:41 ===================
+9/16	DS	8:35	8:36			2		1		cleaned up code and tweaked function
+9/16	DS	8:36	8:37			4		1		added recipe to function
+9/16	DS	8:40	8:44			5		4		added recipe
+9/16	DS	8:44	8:53			6		9		added in recipe
+
+===================committing to git: 9/16 8:56 ===================
+
