@@ -1,6 +1,8 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname set00:5) (read-case-sensitive #t) (teachpacks ((lib "image.rkt" "teachpack" "htdp"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "image.rkt" "teachpack" "htdp")))))
+(require rackunit)
+
 ;;sq: Number -> Number
 ;;GIVEN: any real number
 ;;RETURNS: The product of thst number and itself
@@ -12,4 +14,6 @@
 (define (sq number)
   (* number number))
 
-(sq 6)
+;;TESTS:
+(check-equal? (sq 6) 36 "6 squared is 36")
+(check-equal? (sq 7) 49 "7 squared is 49")

@@ -31,3 +31,12 @@ Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
 
 ===================committing to git: 9/16 8:56 ===================
 
+9/16	DS	11:55	11:57			2		2		changed function name
+9/16	DS	11:57	11:59			3		2		added two test cases
+9/16	DS	11:59	12:01			4		2		added test case
+9/16	DS	12:05	12:07			5		2		added test cases
+9/16	DS	12:07	12:12	2		6		3		added test case
+9/16	DS	12:12	12:19			7		7		wrote documentation and test case for function
+9/16	DS	12:19	12:25			8		6		wrote documentation and test cases
+
+===================committing to git: 9/16 8:56 ===================
